@@ -1,0 +1,12 @@
+# Default ignored files
+<<<<<<< HEAD
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Code\JavaCode\IDEA\MarkMap\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+=======
+/workspace.xml
+>>>>>>> 10f1272881ce3e64212661f7b73cea3619a5d331
